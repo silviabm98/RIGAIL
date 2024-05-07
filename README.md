@@ -1,1 +1,1 @@
-# ExtendedGAIL
+# RIGAIL
